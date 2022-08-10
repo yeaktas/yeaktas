@@ -1,11 +1,11 @@
-# Hi there 👋
+# Hi there! 👋
 
 - 🔭 I’m currently studying in 42 Ecole
 - 🎨 I'm interested in software development and 3D modeling
 - 🌱 I’m currently learning C
 - 💬 Ask me about 42 Ecole
 
-# My 42 stats and projects
+## My 42 stats and projects
 
 <p align="center">
 <a href="https://profile.intra.42.fr/users/yaktas"><img src="https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/stats?cursusId=21&coalitionId=231" alt="yaktas's 42 stats" /></a>
@@ -26,8 +26,12 @@
 </td></tr></table>
 </p>
 
-## Connect With Me!
+## Connect with me!
 
+[![LinkedIn](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linkedin.com/in/yeaktas/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yunusemreaktas97@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Aktas#5278)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/azimlikeme)
 
 
 <!--
