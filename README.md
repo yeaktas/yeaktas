@@ -1,9 +1,19 @@
 ### Hi there 👋
 
 
+[![yaktas's 42 stats](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/stats?cursusId=21&coalitionId=231)](https://github.com/JaeSeoKim/badge42)
+
 | Project | Score | 
-| ---------|--------|
-| test 1 | test 2 |
+| --- | --- |
+| Libft | test 2 |
+| Born2beroot | test 2 |
+| ft_printf | test 2 |
+| get_next_line | test |
+| minitalk | test |
+| so_long | test |
+| push_swap | test |
+| Exam Rank 02 | test |
+
 
 <!--
 **yeaktas/yeaktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
