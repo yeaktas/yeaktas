@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋🏻
 
 - 🔭 I’m currently studying in 42 Ecole
 - 🎨 I'm interested in software development and 3D modeling
