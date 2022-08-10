@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+| Project | Score | 
+| ---------|--------|
+| test 1 | test 2 |
+
 <!--
 **yeaktas/yeaktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
