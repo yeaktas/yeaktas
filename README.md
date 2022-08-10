@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+- 🔭 I’m currently studying in 42 Ecole
+- 🎨 I'm interested in software development and 3D modeling
+- 🌱 I’m currently learning C
+- 💬 Ask me about 42 Ecole
+
+# My 42 stats and projects
 
 <p align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/stats?cursusId=21&coalitionId=231" alt="yaktas's 42 stats" /></a>
@@ -24,7 +31,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studying in 42 school
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
