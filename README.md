@@ -23,6 +23,8 @@
 | so_long | [![yaktas's 42 so_long Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2609066)](https://github.com/yeaktas/so_long) |
 | push_swap | [![yaktas's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2609065)](https://github.com/yeaktas/push_swap) |
 | Exam Rank 02 | [![yaktas's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2642765)](https://github.com/JaeSeoKim/badge42) |
+| Philosophers | [![yaktas's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2855449)](https://github.com/yeaktas/Philosophers) |
+| minishell | [![yaktas's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2855450)](https://github.com/JaeSeoKim/badge42) | 
 </td></tr></table>
 </p>
 
