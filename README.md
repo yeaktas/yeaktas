@@ -26,6 +26,10 @@
 | Philosophers | [![yaktas's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2855449)](https://github.com/yeaktas/Philosophers) |
 | minishell | [![yaktas's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2855450)](https://github.com/yeaktas/minishell) |
 | Exam Rank 03 | [![yaktas's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2912776)](https://github.com/JaeSeoKim/badge42) |
+| NetPractice | [![yaktas's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2937466)](https://github.com/JaeSeoKim/badge42) |
+| cub3d | [![yaktas's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2937469)](https://github.com/JaeSeoKim/badge42) |
+| CPP Modules | [![yaktas's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2937475)](https://github.com/JaeSeoKim/badge42) |
+
 </td></tr></table>
 </p>
 
