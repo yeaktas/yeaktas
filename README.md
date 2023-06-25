@@ -1,8 +1,8 @@
 # Hi there! 👋🏻
 
 - 🔭 I’m currently studying in 42 Ecole
-- 🎨 I'm interested in software development and 3D modeling
-- 🌱 I’m currently learning C
+- 🎨 I'm interested in software development
+- 🌱 I’m currently learning C, C++, COBOL
 - 💬 Ask me about 42 Ecole
 
 ## My 42 stats and projects
