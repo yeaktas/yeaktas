@@ -8,17 +8,17 @@
 ## My 42 stats and projects
 
 <p align="center">
-	<a href="https://github.com/JaeSeoKim/badge42">
-		<img src="https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/stats?cursusId=21&coalitionId=362" alt="yaktas's 42 stats" /></a>
+	<a href="https://profile.intra.42.fr/users/yaktas">
+		<img width="48%" src="https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/stats?cursusId=21&coalitionId=362" alt="yaktas's 42 stats" />
+	</a>
 
 <table widht="100%" align="center">
   <tr style="display:flex; justify-content:space-around; padding:0;">
   <td style="padding:0; margin:0;">
 
-
 | Project | Score | 
-| --- | --- |
-| Libft | [![yaktas's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2489485)](https://github.com/yeaktas/libft) |
+| :- | :-: |
+| Libft <img width=150>| [![yaktas's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2489485)](https://github.com/yeaktas/libft) |
 | get_next_line | [![yaktas's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2538102)](https://github.com/yeaktas/get_next_line) |
 | ft_printf | [![yaktas's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2538104)](https://github.com/yeaktas/ft_printf) |
 | Born2beroot | [![yaktas's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2538103)](https://github.com/yeaktas/Born2beRoot) |
@@ -29,7 +29,9 @@
 </td>
   <td style="padding:0; margin:0;">
 
-| Exam Rank 02 | [![yaktas's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2642765)](https://github.com/JaeSeoKim/badge42) |
+|Project|Score| 
+| :-	|	:-:	|
+| Exam Rank 02 <img width=150>| [![yaktas's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2642765)](https://github.com/JaeSeoKim/badge42) |
 | Philosophers | [![yaktas's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2855449)](https://github.com/yeaktas/Philosophers) |
 | minishell | [![yaktas's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2855450)](https://github.com/yeaktas/minishell) |
 | Exam Rank 03 | [![yaktas's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2912776)](https://github.com/JaeSeoKim/badge42) |
@@ -39,7 +41,6 @@
 
   </td></tr>
   </table>
-</p>
 
 ## Connect with me!
 
