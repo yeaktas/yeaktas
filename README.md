@@ -8,10 +8,13 @@
 ## My 42 stats and projects
 
 <p align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/stats?cursusId=21&coalitionId=362" alt="yaktas's 42 stats" /></a>
+	<a href="https://github.com/JaeSeoKim/badge42">
+		<img src="https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/stats?cursusId=21&coalitionId=362" alt="yaktas's 42 stats" /></a>
 
-<table  align="center">
-<tr style="display:flex; justify-content:space-around;"><td style="padding:0;">
+<table widht="100%" align="center">
+  <tr style="display:flex; justify-content:space-around; padding:0;">
+  <td style="padding:0; margin:0;">
+
 
 | Project | Score | 
 | --- | --- |
@@ -22,6 +25,10 @@
 | minitalk | [![yaktas's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2608992)](https://github.com/yeaktas/minitalk) |
 | so_long | [![yaktas's 42 so_long Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2609066)](https://github.com/yeaktas/so_long) |
 | push_swap | [![yaktas's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2609065)](https://github.com/yeaktas/push_swap) |
+
+</td>
+  <td style="padding:0; margin:0;">
+
 | Exam Rank 02 | [![yaktas's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2642765)](https://github.com/JaeSeoKim/badge42) |
 | Philosophers | [![yaktas's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2855449)](https://github.com/yeaktas/Philosophers) |
 | minishell | [![yaktas's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2855450)](https://github.com/yeaktas/minishell) |
@@ -30,7 +37,8 @@
 | cub3d | [![yaktas's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2937469)](https://github.com/yeaktas/cub3d) |
 | CPP Modules | [![yaktas's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2937475)](https://github.com/JaeSeoKim/badge42) |
 
-</td></tr></table>
+  </td></tr>
+  </table>
 </p>
 
 ## Connect with me!
