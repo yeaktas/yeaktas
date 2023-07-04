@@ -8,7 +8,7 @@
 ## My 42 stats and projects
 
 <p align="center">
-<a href="https://profile.intra.42.fr/users/yaktas"><img src="https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/stats?cursusId=21&coalitionId=231" alt="yaktas's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/stats?cursusId=21&coalitionId=362" alt="yaktas's 42 stats" /></a>
 
 <table  align="center">
 <tr style="display:flex; justify-content:space-around;"><td style="padding:0;">
