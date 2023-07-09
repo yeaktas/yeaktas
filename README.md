@@ -49,10 +49,12 @@
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" />
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  />
 </p>         
 
 ## Connect with me!
