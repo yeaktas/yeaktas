@@ -46,7 +46,7 @@
   </table>
 
 ## Languages and Tools
-<img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
+<!--<img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />-->
 <p allign="left">
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
