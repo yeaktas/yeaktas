@@ -18,27 +18,27 @@
 
 | Project | Score | 
 | :- | :-: |
-| Libft <img width=100>| [![yaktas's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2489485)](https://github.com/yeaktas/libft) |
+| Libft <img width=80>| [![yaktas's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2489485)](https://github.com/yeaktas/libft) |
 | get_next_line | [![yaktas's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2538102)](https://github.com/yeaktas/get_next_line) |
 | ft_printf | [![yaktas's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2538104)](https://github.com/yeaktas/ft_printf) |
 | Born2beroot | [![yaktas's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2538103)](https://github.com/yeaktas/Born2beRoot) |
 | minitalk | [![yaktas's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2608992)](https://github.com/yeaktas/minitalk) |
 | so_long | [![yaktas's 42 so_long Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2609066)](https://github.com/yeaktas/so_long) |
 | push_swap | [![yaktas's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2609065)](https://github.com/yeaktas/push_swap) |
-| Exam Rank 02 <img width=150>| [![yaktas's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2642765)](https://github.com/JaeSeoKim/badge42) |
+| Exam Rank 02 <img width=80>| [![yaktas's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2642765)](https://github.com/JaeSeoKim/badge42) |
 
 </td>
   <td style="padding:0; margin:0;">
 
 |Project|Score| 
 | :-	|	:-:	|
-| Philosophers | [![yaktas's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2855449)](https://github.com/yeaktas/Philosophers) |
+| Philosophers <img width=80>| [![yaktas's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2855449)](https://github.com/yeaktas/Philosophers) |
 | minishell | [![yaktas's 42 minishell Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2855450)](https://github.com/yeaktas/minishell) |
 | Exam Rank 03 | [![yaktas's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2912776)](https://github.com/JaeSeoKim/badge42) |
 | NetPractice | [![yaktas's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2937466)](https://github.com/JaeSeoKim/badge42) |
 | cub3d | [![yaktas's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2937469)](https://github.com/yeaktas/cub3d) |
 | CPP Modules | [![yaktas's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2937475)](https://github.com/yeaktas/CPP-Modules) |
-| Exam Rank 04 <img width=150>| [![yaktas's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/3147784)](https://github.com/JaeSeoKim/badge42) |
+| Exam Rank 04 <img width=80>| [![yaktas's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/3147784)](https://github.com/JaeSeoKim/badge42) |
 | ft_irc | [![yaktas's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/3205512)]() |
 | Inception | [![yaktas's 42 Inception Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/3205511)]() |
 
