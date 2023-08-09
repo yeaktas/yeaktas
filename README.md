@@ -18,7 +18,7 @@
 
 | Project | Score | 
 | :- | :-: |
-| Libft <img width=150>| [![yaktas's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2489485)](https://github.com/yeaktas/libft) |
+| Libft <img width=100>| [![yaktas's 42 Libft Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2489485)](https://github.com/yeaktas/libft) |
 | get_next_line | [![yaktas's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2538102)](https://github.com/yeaktas/get_next_line) |
 | ft_printf | [![yaktas's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2538104)](https://github.com/yeaktas/ft_printf) |
 | Born2beroot | [![yaktas's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/project/2538103)](https://github.com/yeaktas/Born2beRoot) |
