@@ -12,7 +12,7 @@
 		<img width="48%" src="https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/stats?cursusId=21&coalitionId=362" alt="yaktas's 42 stats" />
 	</a>
 
-<table widht="100%" align="center">
+<table width="100%" align="center">
   <tr style="display:flex; justify-content:space-around; padding:0;">
   <td style="padding:0; margin:0;">
 
