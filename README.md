@@ -60,12 +60,6 @@
 | [minitalk](https://github.com/yeaktas/minitalk) | The purpose of this project is to code a small data exchange program using UNIX signals. |
 | [so_long](https://github.com/yeaktas/so_long) | This project is a small 2D game with minilibx. |
 | [push_swap](https://github.com/yeaktas/push_swap) | This project will make you sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. |
-
-</td>
-  <td style="padding:0; margin:0;">
-
-|Project|Score| 
-| :-	|	:-:	|
 | [Philosophers](https://github.com/yeaktas/Philosophers) <img width=80>| This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger. |
 | [minishell](https://github.com/yeaktas/minishell) | This project is about creating a simple shell. Yes, my own little bash. |
 | [cub3d](https://github.com/yeaktas/cub3d) | This project is inspired by the world-famous Wolfenstein 3D game. |
@@ -73,8 +67,9 @@
 | [ft_irc](https://github.com/yeaktas/IRC) | We are creating our own IRC server in C++, fully compatible with an official client. |
 | [Inception](https://github.com/yeaktas/Inception) | This project aims to broaden your knowledge of system administration by using Docker. |
 | [ft_transcendence](https://github.com/fleizean/ft_transcendence_newpdf) | Surprise |
-  </td></tr>
-  </table>
+
+</td>
+</table>
 
 ## Languages and Tools
 <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
