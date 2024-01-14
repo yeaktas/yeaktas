@@ -2,12 +2,11 @@
 
 - 🔭 I’m currently studying in 42 Ecole
 - 🎨 I'm interested in software development
-- 🌱 I’m currently learning C, C++, COBOL
-- 💬 Ask me about 42 Ecole
+- 🌱 I’m currently learning C, C++
 
-## My 42 stats and projects
+## My 42 projects
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://profile.intra.42.fr/users/yaktas">
 		<img width="48%" src="https://badge42.vercel.app/api/v2/cl6nfxu0j00060gl161hzaqgt/stats?cursusId=21&coalitionId=362" alt="yaktas's 42 stats" />
 	</a>
@@ -44,6 +43,38 @@
 
   </td></tr>
   </table>
+ -->
+
+<p align="center">
+
+<table width="100%" align="center">
+  <tr style="display:flex; justify-content:space-around; padding:0;">
+  <td style="padding:0; margin:0;">
+
+| Project | Score | 
+| :- | :-: |
+| [Libft](https://github.com/yeaktas/libft) <img width=80>| This project is about coding a C library. |
+| [get_next_line](https://github.com/yeaktas/get_next_line) | This project is about programming a function that returns a line read from a file descriptor.|
+| [ft_printf](https://github.com/yeaktas/ft_printf) | We are rewriting the 'printf' function. |
+| [Born2beroot](https://github.com/yeaktas/Born2beRoot) | This project is a System Administration related exercise. |
+| [minitalk](https://github.com/yeaktas/minitalk) | The purpose of this project is to code a small data exchange program using UNIX signals. |
+| [so_long](https://github.com/yeaktas/so_long) | This project is a small 2D game with minilibx. |
+| [push_swap](https://github.com/yeaktas/push_swap) | This project will make you sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. |
+
+</td>
+  <td style="padding:0; margin:0;">
+
+|Project|Score| 
+| :-	|	:-:	|
+| [Philosophers](https://github.com/yeaktas/Philosophers) <img width=80>| This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger. |
+| [minishell](https://github.com/yeaktas/minishell) | This project is about creating a simple shell. Yes, my own little bash. |
+| [cub3d](https://github.com/yeaktas/cub3d) | This project is inspired by the world-famous Wolfenstein 3D game. |
+| [CPP Modules](https://github.com/yeaktas/CPP-Modules) | The goal of these modules is to introduce us to Object-Oriented Programming. |
+| [ft_irc](https://github.com/yeaktas/IRC) | We are creating our own IRC server in C++, fully compatible with an official client. |
+| [Inception](https://github.com/yeaktas/Inception) | This project aims to broaden your knowledge of system administration by using Docker. |
+| [ft_transcendence](https://github.com/fleizean/ft_transcendence_newpdf) | Surprise |
+  </td></tr>
+  </table>
 
 ## Languages and Tools
 <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
@@ -52,12 +83,14 @@
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"  />
+          
 </p>         
 
 ## Connect with me!
