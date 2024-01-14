@@ -46,7 +46,7 @@
  -->
 
 
-| Project | Score | 
+| Project | Description | 
 | :- | :- |
 | [Libft](https://github.com/yeaktas/libft) <img width=80>| This project is about coding a C library. |
 | [get_next_line](https://github.com/yeaktas/get_next_line) | This project is about programming a function that returns a line read from a file descriptor.|
