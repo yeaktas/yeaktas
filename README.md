@@ -45,14 +45,9 @@
   </table>
  -->
 
-<p align="center">
-
-<table width="100%" align="center">
-  <tr style="display:flex; justify-content:space-around; padding:0;">
-  <td style="padding:0; margin:0;">
 
 | Project | Score | 
-| :- | :-: |
+| :- | :- |
 | [Libft](https://github.com/yeaktas/libft) <img width=80>| This project is about coding a C library. |
 | [get_next_line](https://github.com/yeaktas/get_next_line) | This project is about programming a function that returns a line read from a file descriptor.|
 | [ft_printf](https://github.com/yeaktas/ft_printf) | We are rewriting the 'printf' function. |
@@ -68,8 +63,6 @@
 | [Inception](https://github.com/yeaktas/Inception) | This project aims to broaden your knowledge of system administration by using Docker. |
 | [ft_transcendence](https://github.com/fleizean/ft_transcendence_newpdf) | Surprise |
 
-</td>
-</table>
 
 ## Languages and Tools
 <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
